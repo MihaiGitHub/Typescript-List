@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MihaiGitHub/Typescript-List/issues"
   },
-  "homepage": "https://github.com/MihaiGitHub/Typescript-List#readme"
+  "homepage": "https://github.com/MihaiGitHub/Typescript-List#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
